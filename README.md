@@ -1,2 +1,2 @@
-# activation_triton
-Library for activation functions implemented in Triton/PyTorch
+# Activation Functions in Triton
+This will eventually become a library for various activation functions implemented in Triton for PyTorch models.
